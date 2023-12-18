@@ -1,1 +1,1 @@
-# firr
+# Dice Game
